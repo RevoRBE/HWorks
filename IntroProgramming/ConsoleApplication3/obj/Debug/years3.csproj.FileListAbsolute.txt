@@ -1,5 +1,0 @@
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
