@@ -1,0 +1,5 @@
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\PrinLongSequence\bin\Debug\PrinLongSequence.exe.config
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\PrinLongSequence\obj\Debug\PrinLongSequence.exe
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\PrinLongSequence\obj\Debug\PrinLongSequence.pdb
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\PrinLongSequence\bin\Debug\PrinLongSequence.exe
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\Solution1\PrinLongSequence\bin\Debug\PrinLongSequence.pdb
