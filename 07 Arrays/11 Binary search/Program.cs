@@ -9,29 +9,29 @@ class BinarySearch
         {
             arr[i] = int.Parse(Console.ReadLine());
         }
-        int needed = int.Parse(Console.ReadLine());
+        int tar = int.Parse(Console.ReadLine());
         int min = 0;
         int max = size;
         int mid;
         while (true)
         {
             mid = (min + max) / 2;
-            if (needed > arr[mid])
+            if (tar > arr[mid])
             {
-                min = mid + 1;  //needed in end
-            } 
+                min = mid ;
+            }
             else
             {
-                max = mid; //needed in beggining
+                max = mid;
             }
-            if(min==max||min==max-1) //output
+            if(min==max||min==max-1)
             {
-                if (arr[min]==needed)
+                if (arr[min] == tar)
                 {
                     Console.WriteLine(min);
                     return;
                 }
-                else if (arr[max]==needed)
+                else if (arr[max] == tar)
                 {
                     Console.WriteLine(max);
                     return;

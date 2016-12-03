@@ -9,7 +9,7 @@ public class Program
         int[] arr = new int[int.Parse(Console.ReadLine())];
         int count = 1;
         int maxCount = 0;
-        int num = 0;
+        int numKeep = 0;
         for (int i = 0; i < arr.Length; i++)
         {
             arr[i] = int.Parse(Console.ReadLine());
@@ -23,7 +23,7 @@ public class Program
                 if (maxCount < count)
                 {
                     maxCount = count;
-                    num = arr[i];
+                    numKeep = arr[i];
                 }
             }
             else
@@ -31,6 +31,6 @@ public class Program
                 count = 1;
             }
         }
-        Console.WriteLine(num + " ({0} times)", maxCount);
+        Console.WriteLine(numKeep + " ({0} times)", maxCount);
     }
 }

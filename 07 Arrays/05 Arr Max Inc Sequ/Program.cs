@@ -4,15 +4,15 @@ class Program
 {
     static void Main()
     {
-        int input = int.Parse(Console.ReadLine());
-        int[] array = new int[input];
+        int length = int.Parse(Console.ReadLine());
+        int[] array = new int[length];
         int inc = 1;
         int result = 1;
 
-        for (int i = 0; i < input; i++)
+        for (int i = 0; i < length; i++)
             array[i] = int.Parse(Console.ReadLine());
 
-        for (int i = 0; i < input - 1; i++)
+        for (int i = 0; i < length - 1; i++)
             if ((array[i]) < array[i + 1])
             {
                 inc++;

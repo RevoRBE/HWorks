@@ -37,7 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 Matrix of Numbers", "Matr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 Odd Even Product", "Odd Even Product\10 Odd Even Product.csproj", "{E318645B-3B57-41C3-9226-A55F2966D899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral", "Spiral\Spiral.csproj", "{D981C8DA-9371-4599-A00A-9DC297839199}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 SpiralV2", "Spiral\17 SpiralV2.csproj", "{D981C8DA-9371-4599-A00A-9DC297839199}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 Trailing 0 in N", "Trailing 0 in N\16 Trailing 0 in N.csproj", "{B45E6B95-80DB-4691-AA86-7676E9BC21D1}"
 EndProject
@@ -54,6 +54,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 Matrix challenge", "test1\9 Matrix challenge.csproj", "{A64BD042-5573-4CC0-84D9-EE306B19C320}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 Matrix", "Matrix\9 Matrix.csproj", "{37856341-7A1B-46BA-9F04-0B572E333415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 Spiral", "16 Spiral\17 Spiral.csproj", "{8B979298-F8CF-4F25-828C-87F73E7F36B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 MatrixV0", "17 MatrixV0\17 MatrixV0.csproj", "{CE594517-EB41-4DDD-87EC-32D84CF1B0C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{37856341-7A1B-46BA-9F04-0B572E333415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37856341-7A1B-46BA-9F04-0B572E333415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37856341-7A1B-46BA-9F04-0B572E333415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B979298-F8CF-4F25-828C-87F73E7F36B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B979298-F8CF-4F25-828C-87F73E7F36B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B979298-F8CF-4F25-828C-87F73E7F36B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B979298-F8CF-4F25-828C-87F73E7F36B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE594517-EB41-4DDD-87EC-32D84CF1B0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE594517-EB41-4DDD-87EC-32D84CF1B0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE594517-EB41-4DDD-87EC-32D84CF1B0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE594517-EB41-4DDD-87EC-32D84CF1B0C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
