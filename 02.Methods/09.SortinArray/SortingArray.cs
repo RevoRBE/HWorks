@@ -5,7 +5,6 @@
         {
             Array.Sort(array);
             return array;
-
         }
         static int[] GetArray(int arrLength)
         {

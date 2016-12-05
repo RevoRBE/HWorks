@@ -6,11 +6,11 @@ class Program
     {
         BigInteger[] array = new BigInteger[n];
         BigInteger factorial = n;
-        for (int i = 1; i <= array.Length; i++)
+        for (int i = 1; i < array.Length; i++)
         {
-            array[i - 1] = i;
+            array[i] = i;
         }
-        for (int i = 0; i < array.Length - 1; i++)
+        for (int i = 2; i < array.Length - 1; i++)
         {
             factorial *= array[i];
         }

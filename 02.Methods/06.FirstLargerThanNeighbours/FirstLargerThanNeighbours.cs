@@ -7,7 +7,7 @@ class FirstLargerThanNeighbours
     }
     static void GetFirstLargerThanNeighbours(int n, string[] array)
     {
-        int result;
+        int result = -1;
         int[] numbers = new int[n];
         for (int i = 0; i < n; i++)
         {

@@ -3,7 +3,6 @@ class AddingPolynomials
 {
     static int[] GetSum(int n)
     {
-
         int[] first = GetArray(Console.ReadLine().Split(' '));
         int[] second = GetArray(Console.ReadLine().Split(' '));
         int[] sum = new int[n];
@@ -13,7 +12,6 @@ class AddingPolynomials
         }
         return sum;
     }
-
     static int[] GetArray(string[] members)
     {
         int[] array = new int[members.Length];
@@ -23,17 +21,13 @@ class AddingPolynomials
         }
         return array;
     }
-
-    static void PrintSum(int[] sum)
+    static void Main()
     {
+        int[] sum = GetSum(int.Parse(Console.ReadLine()));
         foreach (int member in sum)
         {
             Console.Write("{0} ", member);
         }
     }
 
-    static void Main()
-    {
-        PrintSum(GetSum(int.Parse(Console.ReadLine())));
-    }
 }

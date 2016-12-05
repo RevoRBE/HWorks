@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Numerics;
-namespace _10.NFactorial
+
+namespace 10.NFactorial
 {
     class Program
     {

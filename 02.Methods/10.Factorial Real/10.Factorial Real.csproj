@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31BD3CA4-E54C-4F1F-922B-E271538BDCC8}</ProjectGuid>
+    <ProjectGuid>{D912D3BA-35C6-425D-A2FA-A57F5C36597F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_10.NFactorial2</RootNamespace>
-    <AssemblyName>10.NFactorial2</AssemblyName>
+    <RootNamespace>_10.Factorial_Real</RootNamespace>
+    <AssemblyName>10.Factorial Real</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

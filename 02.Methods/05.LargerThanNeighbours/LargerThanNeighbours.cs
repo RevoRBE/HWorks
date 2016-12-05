@@ -3,10 +3,10 @@ class LargerThanNeighbours
 {
     static void Main()
     {
-        GetLargerThanNeighbours(int.Parse(Console.ReadLine()), Console.ReadLine().Split(' '));
+        Console.WriteLine(GetLargerThanNeighbours(int.Parse(Console.ReadLine()), Console.ReadLine().Split(' ')));
     }
 
-    static void GetLargerThanNeighbours(int n, string[] array)
+    static int GetLargerThanNeighbours(int n, string[] array)
     {
         int counter = 0;
         int[] numbers = new int[n];
@@ -22,8 +22,6 @@ class LargerThanNeighbours
                 counter++;
             }
         }
-        Console.WriteLine(counter);
-
-
+        return counter;
     }
 }

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31BD3CA4-E54C-4F1F-922B-E271538BDCC8}</ProjectGuid>
+    <ProjectGuid>{DB9C7A22-BD29-4115-BC54-5F177459423D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_10.NFactorial2</RootNamespace>
-    <AssemblyName>10.NFactorial2</AssemblyName>
+    <RootNamespace>_05.LargerThanNeighboursMe</RootNamespace>
+    <AssemblyName>05.LargerThanNeighboursMe</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -34,7 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />

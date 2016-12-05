@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("10.NFactorial")]
+[assembly: AssemblyTitle("05.LargerThanNeighboursMe")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("10.NFactorial")]
+[assembly: AssemblyProduct("05.LargerThanNeighboursMe")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("91df8a17-6e13-475f-a864-4a6d2719dee5")]
+[assembly: Guid("b838a1d2-78c4-4a36-b22e-553c1d7ab9e1")]
 
 // Version information for an assembly consists of the following four values:
 //
